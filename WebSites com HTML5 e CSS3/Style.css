@@ -1,0 +1,22 @@
+body{
+    background: rgb(175, 120, 238);
+}
+
+#title, .subtitle, .post_title {
+    color: rgb(175, 6, 57);
+    
+}
+
+.post_title{
+
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.post{
+    background: rgb(22, 184, 184);
+    padding: 10px;
+    border: 3px;
+    margin: 10px;
+}
