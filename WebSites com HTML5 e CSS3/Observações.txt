@@ -4,3 +4,8 @@
 
 // No entanto, este link abrirá no lugar da página em que você estiver no momento. Portanto, se o você deseja que o seja aberto numa nova aba, é necessário usar:
      <a href = "link" target = "_blank">
+
+
+** A tag <img src ="Imagem que voce quiser"> adiciona imagens ao seu projeto.
+
+// Pode acontecer de a imagem não carregar devido a problemas de rede ou outros. Nesses casos, é interessante adicionar uma DESCRIÇÃO à sua imagem por meio da TAG "alt = 'descrição'".
