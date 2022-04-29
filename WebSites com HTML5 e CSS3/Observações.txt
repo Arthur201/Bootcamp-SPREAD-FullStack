@@ -1,0 +1,6 @@
+
+** Para criar um link, usa-se:
+    <a href="endereço da página desejada"> palavra a qual você deseja atribuir o link </a>
+
+// No entanto, este link abrirá no lugar da página em que você estiver no momento. Portanto, se o você deseja que o seja aberto numa nova aba, é necessário usar:
+     <a href = "link" target = "_blank">
