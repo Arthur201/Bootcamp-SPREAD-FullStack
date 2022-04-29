@@ -12,3 +12,8 @@
 
 ** Para alterar a largura e altura da sua imagem, é só usar "height" e "width" após inserir o endereço do link:
     <img src = "Background.gif" height="500px" width="800px">
+
+
+** Para criar uma LISTA NÃO-ORDENADA: <ul>  </ul>
+
+** Para criar uma LISTA ORDENADA: <ol>   </ol>
