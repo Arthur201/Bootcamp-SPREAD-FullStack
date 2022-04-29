@@ -9,3 +9,6 @@
 ** A tag <img src ="Imagem que voce quiser"> adiciona imagens ao seu projeto.
 
 // Pode acontecer de a imagem não carregar devido a problemas de rede ou outros. Nesses casos, é interessante adicionar uma DESCRIÇÃO à sua imagem por meio da TAG "alt = 'descrição'".
+
+** Para alterar a largura e altura da sua imagem, é só usar "height" e "width" após inserir o endereço do link:
+    <img src = "Background.gif" height="500px" width="800px">
